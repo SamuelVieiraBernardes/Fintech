@@ -3,7 +3,7 @@
     border: 0; /*zerando a borda*/
     padding: 0; /*zerando a distancia*/
     margin: 0; /* zerando o espaço externo*/
-    box-sizing: border-box; /* Respeitando altura e largura*/
+    box-sizing: auto; /* Respeitando altura e largura*/
 }
 
 
@@ -34,6 +34,7 @@
     --font-weight-h5:500;
     --font-weight-body:400;
     --font-weight-button:700;
-    --font-weight
+    --font-weight-caption:400;
     
+    --font-family-primary: "inter", sans-serif;
 }
