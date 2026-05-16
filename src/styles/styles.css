@@ -4,9 +4,9 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 26px;
-    border-bottom: 10px solid var(--color-primary);
-
+    padding: 10px;
+    border-bottom: 10px solid var(--color-secondary);
+    background-color: var(--color-secondary);
 }
 
 .container-herader{
@@ -14,3 +14,29 @@ header{
     align-items: center;
     gap: 46px;
 }
+
+.navigation-hearder ul{
+    display: flex;
+    gap: 46px;
+    list-style: none;
+}
+
+.navigation-hearder ul li a{
+    text-decoration: none;
+    color: var(--color-nautral-white);
+    font-family: var(--font-family-primaryont-family-primary);
+}
+.navigation-hearder ul lu .menu-active{
+    color: var(--color-nautral-white);
+}
+
+.btn-hearder{
+    font-family:var(--font-family-primary);
+    color: var(--color-nautral-white);
+    text-decoration: none;
+    background-color: var(--color-primary);
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: var(--font-weight-button);
+}
+
