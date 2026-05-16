@@ -3,10 +3,11 @@
 header{
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 10px;
+    align-items:center;
+    padding: 10px 139px;
     border-bottom: 10px solid var(--color-secondary);
     background-color: var(--color-secondary);
+
 }
 
 .container-herader{
@@ -92,3 +93,36 @@ main{
     color: var(--color-nautral-white);
 
 }
+
+.section-services{
+   display: flex;
+   background-color: var(--color-nautral-white);
+   justify-content: center;
+   align-items: center;
+   gap: 100px;
+   padding: 60px;
+}
+
+.senai-sevirces{
+    display:flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 603px;
+}
+
+.senai-sevirces h2{
+    font-family: var(--font-family-primary);
+    font-size: var( --font-size-h2);
+    font-weight: var(--font-weight-h2);
+}
+
+.senai-sevirces h2 span{
+    color: var(--color-primary);
+}
+
+.senai-sevirces p{
+    font-family: var(--font-family-primary);
+    gap: 30px;
+}
+
+.
