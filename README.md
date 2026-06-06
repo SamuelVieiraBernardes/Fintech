@@ -51,7 +51,7 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
-![Web1]([(https://github.com/SamuelVieiraBernardes/Fintech/blob/main/TAMB-FINTECH.png)])
+![Web1](https://github.com/SamuelVieiraBernardes/Fintech/blob/main/TAMB-FINTECH.png)
 
 ---
 
